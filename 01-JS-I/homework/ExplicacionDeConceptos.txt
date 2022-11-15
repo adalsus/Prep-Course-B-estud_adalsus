@@ -1,0 +1,34 @@
+2. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+* Variables
+* Strings
+* Booleans
+* Undefined
+* Null
+* Operadores
+* == vs. ===
+
+
+Explicaciones:
+
+Variables.-  Son espacios que se reservan y que le nombramos con 
+apodos para luego pasarles, una o varias veces, distintos valores.
+
+Strings.-  Son valores que también se les conoce como cadenas de texto,
+a estos String se los debe encerrar entre comillas simples o dobles.  Ej. 'Calle #18'
+
+Booleans.-  Los valores booleanos hacen o ayudan si llevan o bien un valor true(verdadero) 
+o un valor false(falso).
+
+Undefined.-  Significa valor no asignado.  Ejemplo si a una variable no se le asigna valor 
+se queda por defecto en undefined.
+
+Null.-  Es vacío, o sea, no es de ningún tipo y no tiene valor.
+
+Operadores.-  Son símbolos que se usan para hacer operaciones como para la operación suma hacemos uso
+del símbolo + (más), otro uso para la comparación de valores tipo boolean podemos usar el operador && (and).
+
+== vs ===.-  Estos caracteres están entre dos expresiones para valorar si son iguales, el == solo busca comparar
+su valor(número) en cambio el === a parte de revisar la igualdad del valor tambien revisa su tipo (numérico, cadena, estructura).
